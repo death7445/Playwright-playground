@@ -25,3 +25,6 @@
   },
   "homepage": "https://github.com/death7445/playwright-playground#readme"
 }
+"scripts": {
+  "test": "jest"
+}
